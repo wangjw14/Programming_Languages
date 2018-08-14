@@ -1,1 +1,1 @@
-# This is a repository used for practicing programming skills.
+# This is a repository used for practising programming skills.
